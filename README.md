@@ -6,7 +6,16 @@ This repository contains materials for the first assignment for the course [EDS 
 Complete instructions for this assignment are in [the course website](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment1.html).
 
 ## Notebook instructions
-The notebooks `hwk1-task2-corals.ipynb` and `hwk1-task3-earthquakes.ipynb` have exercises for practicing fundamental tabular data exploration, wrangling, and visualization using `pandas`. Each notebook contains detailed instructions on how to complete the exercises. 
+The notebooks `hwk1-task2-corals.ipynb` and `hwk1-task3-earthquakes.ipynb` have exercises for practicing fundamental tabular data exploration, wrangling, and visualization using `pandas`. Each notebook contains detailed instructions on how to complete the exercises.  
+
+
+## Otter Grader Checks
+These notebooks utilize the `otter` library and have self contained checks within the notebooks to ensure you are on the right track. To start, run the very first cell of the notebook that contains the  ""#Initialize Otter" comment. After completing a question, there may be a cell that follows that says `grader.check()`.To check your work, run that cell. Doing so will either return an emoji with the text "q# passed!", or it will tell you the test did not pass. If your test did not pass, try rereading the prompt and making sure your output is what you would expect. 
+
+The very last cell of the notebook contains a cell with `grader_check_all()`. This runs all tests in the notebook and reports the tests that have passed as well as the ones that have failed. Be sure to run this cell! Ideally, your output will look like the following (question numbers may differ). 
+
+![](data/grader_check.png)
+
 
 The `data` folder contains a single CSV file (`data/earthquake_data.csv`) used in `hwk1-task3.ipynb`.
 

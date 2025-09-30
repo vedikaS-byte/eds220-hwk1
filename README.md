@@ -13,7 +13,7 @@ The notebooks `hwk1-task2-corals.ipynb` and `hwk1-task3-earthquakes.ipynb` have 
 These notebooks utilize the `otter` library and have self contained checks within the notebooks to ensure you are on the right track. Follow the steps below to run the otter grader checks. 
 
 1. Run the very first cell of the notebook that contains the  ""#Initialize Otter" comment.
-2. Fill in code where the notebook asks you to
+2. Fill in code where the notebook instructs you to do so. 
 3. When you encounter a `gracer.check()` cell, like the image below, run the cell. Doing so will either return an emoji with the text "q# passed!", or it will tell you the test did not pass. If your test did not pass, try rereading the prompt and making sure your output is what you would expect.
 
 <img width="717" height="99" alt="Screenshot 2025-09-30 at 2 16 07 PM" src="https://github.com/user-attachments/assets/7d76e82a-3c5e-4630-bcf5-c25e26bf5ee7" />

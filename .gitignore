@@ -1,5 +1,5 @@
 .DS_Store
-
+.OTTER_LOG
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 

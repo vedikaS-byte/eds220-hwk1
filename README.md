@@ -7,6 +7,7 @@ Complete instructions for this assignment are in [the course website](https://me
 
 ## Notebook instructions
 The notebooks `hwk1-task2-corals.ipynb` and `hwk1-task3-earthquakes.ipynb` have exercises for practicing fundamental tabular data exploration, wrangling, and visualization using `pandas`. Each notebook contains detailed instructions on how to complete the exercises.  
+<img width="825" height="471" alt="Screenshot 2025-09-30 at 1 15 25 PM" src="https://github.com/user-attachments/assets/e0a030a7-cce5-4901-b501-bfc2f86120ed" />
 
 
 ## Otter Grader Checks
@@ -14,7 +15,7 @@ These notebooks utilize the `otter` library and have self contained checks withi
 
 The very last cell of the notebook contains a cell with `grader_check_all()`. This runs all tests in the notebook and reports the tests that have passed as well as the ones that have failed. Be sure to run this cell! Ideally, your output will look like the following (question numbers may differ). 
 
-![](data/grader_check.png)
+
 
 
 The `data` folder contains a single CSV file (`data/earthquake_data.csv`) used in `hwk1-task3.ipynb`.

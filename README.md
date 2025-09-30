@@ -10,15 +10,34 @@ The notebooks `hwk1-task2-corals.ipynb` and `hwk1-task3-earthquakes.ipynb` have 
 
 
 ## Otter Grader Checks
-These notebooks utilize the `otter` library and have self contained checks within the notebooks to ensure you are on the right track. To start, run the very first cell of the notebook that contains the  ""#Initialize Otter" comment. After completing a question, there may be a cell that follows that says `grader.check()`.To check your work, run that cell. Doing so will either return an emoji with the text "q# passed!", or it will tell you the test did not pass. If your test did not pass, try rereading the prompt and making sure your output is what you would expect. 
+These notebooks utilize the `otter` library and have self contained checks within the notebooks to ensure you are on the right track. Follow the steps below to run the otter grader checks. 
 
-The very last cell of the notebook contains a cell with `grader_check_all()`. This runs all tests in the notebook and reports the tests that have passed as well as the ones that have failed. Be sure to run this cell! Ideally, your output will look like the following (question numbers may differ). 
+1. Run the very first cell of the notebook that contains the  ""#Initialize Otter" comment.
+2. Fill in code where the notebook asks you to
+3. When you encounter a `gracer.check()` cell, like the image below, run the cell. Doing so will either return an emoji with the text "q# passed!", or it will tell you the test did not pass. If your test did not pass, try rereading the prompt and making sure your output is what you would expect.
+
+<img width="717" height="99" alt="Screenshot 2025-09-30 at 2 16 07 PM" src="https://github.com/user-attachments/assets/7d76e82a-3c5e-4630-bcf5-c25e26bf5ee7" />
+
+
+4. The very last cell of the notebook contains a cell with `grader_check_all()`. This runs all tests in the notebook and reports the tests that have passed as well as the ones that have failed. Be sure to run this cell! Ideally, your output will look like the following (question numbers may differ). 
 
 <img width="825" height="471" alt="Screenshot 2025-09-30 at 1 15 25 PM" src="https://github.com/user-attachments/assets/e0a030a7-cce5-4901-b501-bfc2f86120ed" />
 
 
 
-The `data` folder contains a single CSV file (`data/earthquake_data.csv`) used in `hwk1-task3.ipynb`.
+## Repository Contents
+     └── task2  
+        └── data                          # Contains the data used in the analysis, as well as all data used for the tests       
+        └── tests                         # Contains a .py file for each test
+        └── hwk1-task2-corals.ipynb       # The empty .ipynb for task 2                                               
+     └── task3          
+        └── data                          # Contains the data used in the analysis, as well as all data used for the tests
+        └── tests                         # Contains a .py file for each test
+        └── hwk1-task3-earthquakes.ipynb  # The empty .ipynb for task 3
+  
+      └── README.md
+      └── License.txt
+
 
 ## Rubric
 

@@ -8,6 +8,9 @@ Complete instructions for this assignment are in [the course website](https://me
 ## Notebook instructions
 The notebooks `hwk1-task2-corals.ipynb` and `hwk1-task3-earthquakes.ipynb` have exercises for practicing fundamental tabular data exploration, wrangling, and visualization using `pandas`. Each notebook contains detailed instructions on how to complete the exercises.  
 
+## Rubric
+
+Please [review the rubric for these tasks](https://docs.google.com/document/d/131OnUDOLpOl94SlaMU9nGqT998ABrjFS/edit?usp=sharing&ouid=111507336322611936333&rtpof=true&sd=true) before starting your work. 
 
 ## Otter Grader Checks
 These notebooks utilize the `otter` library and have self contained checks within the notebooks to ensure you are on the right track. Follow the steps below to run the otter grader checks. 
@@ -24,6 +27,18 @@ These notebooks utilize the `otter` library and have self contained checks withi
 <img width="825" height="471" alt="Screenshot 2025-09-30 at 1 15 25 PM" src="https://github.com/user-attachments/assets/e0a030a7-cce5-4901-b501-bfc2f86120ed" />
 
 
+## Submission instructions
+**All tasks for this assignment should be submitted via Gradescope.** Make sure you double-check your submission to ensure it satisfies all the items in this checklist:
+
+- [ ] Answers for tasks 2 and 3 must be submitted as .ipynb files (Jupyter Notebooks) to Gradescope, *not* a PDF or other format.
+- [ ] Ensure your notebooks include a link to your assignment's GitHub repository in the designated section.
+- [ ] The notebooks you submit must have your solutions to the exercises, They *should not be the blank template notebooks*. 
+- [ ] The notebooks you submit must include your code *and* all required rendered plots, graphs, and printed output. Run all cells before submitting your .ipynb file and make sure all the outputs are visible.
+- [ ] Double-check that each notebook or PDF is uploaded to the correct task on Gradescope. 
+
+**Resubmissions after the due date due to not satisfying one of the checks above will be strictly held to the course's 50%-regrade resubmission policy (see syllabus).**
+
+If you have any questions, please reach out to the TA or instructor by 5 pm on the day before the assignment is due.
 
 ## Repository Contents
      └── task2  
@@ -38,20 +53,3 @@ These notebooks utilize the `otter` library and have self contained checks withi
       └── README.md
       └── License.txt
 
-
-## Rubric
-
-Please [review the rubric for these tasks](https://docs.google.com/document/d/131OnUDOLpOl94SlaMU9nGqT998ABrjFS/edit?usp=sharing&ouid=111507336322611936333&rtpof=true&sd=true) before starting your work. 
-
-## Submission instructions
-**All tasks for this assignment should be submitted via Gradescope.** Make sure you double-check your submission to ensure it satisfies all the items in this checklist:
-
-- [ ] Answers for tasks 2 and 3 must be submitted as .ipynb files (Jupyter Notebooks) to Gradescope, *not* a PDF or other format.
-- [ ] Ensure your notebooks include a link to your assignment's GitHub repository in the designated section.
-- [ ] The notebooks you submit must have your solutions to the exercises, They *should not be the blank template notebooks*. 
-- [ ] The notebooks you submit must include your code *and* all required rendered plots, graphs, and printed output. Run all cells before submitting your .ipynb file and make sure all the outputs are visible.
-- [ ] Double-check that each notebook or PDF is uploaded to the correct task on Gradescope. 
-
-**Resubmissions after the due date due to not satisfying one of the checks above will be strictly held to the course's 50%-regrade resubmission policy (see syllabus).**
-
-If you have any questions, please reach out to the TA or instructor by 5 pm on the day before the assignment is due.
